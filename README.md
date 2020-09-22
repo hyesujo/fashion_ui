@@ -1,6 +1,10 @@
 # blue_ui
 
-A new Flutter project.
+![Simulator Screen Shot - iPhone SE (2nd generation) - 2020-09-22 at 18 17 28](https://user-images.githubusercontent.com/63487097/93865171-eb6f7900-fd00-11ea-95f7-709dfc3b7d77.png)
+
+
+![Simulator Screen Shot - iPhone SE (2nd generation) - 2020-09-22 at 18 17 32](https://user-images.githubusercontent.com/63487097/93865188-f0342d00-fd00-11ea-8097-48a05ad91e34.png)
+
 
 ## Getting Started
 
